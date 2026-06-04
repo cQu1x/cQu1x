@@ -1,7 +1,7 @@
 # Hi, I'm Bogdan
 
 I'm a computer science student and a backend engineer with 2 years of experience building scalable, maintainable systems.
-Worked on backend services used in production, including a web testing platform that improved internal workflows for 100+ users.
+Worked on backend services used in production, including a web testing platform that improved internal workflows for 1000+ users.
 
 Currently focused on system design, backend architecture, and writing reliable code that solves real product problems.
 
