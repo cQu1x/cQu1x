@@ -1,7 +1,6 @@
 # Hi, I'm Bogdan
 
 I'm а backend engineer interested in building scalable, maintainable systems.
-Worked on backend services used in production, including a web testing platform that improved internal workflows for 1000+ users.
 
 Currently focused on system design, backend architecture, and writing reliable code that solves real product problems.
 
